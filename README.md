@@ -2,7 +2,7 @@
 🔭 I’m currently working on CNU CSE
 🌱 I’m currently learning Speaking Korean
 👯 I’m looking to collaborate on Future.K
-💬 Ask me about How old are you
+💬 Ask me about How old am I
 😄 Pronouns: Ya HO
 ⚡ Fun fact: I Love It
 <!--
