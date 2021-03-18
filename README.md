@@ -1,8 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Universe
+🔭 I’m currently working on CNU CSE
 🌱 I’m currently learning Speaking Korean
 👯 I’m looking to collaborate on Future.K
-🤔 I’m looking for help with someone
 💬 Ask me about How old are you
 😄 Pronouns: Ya HO
 ⚡ Fun fact: I Love It
