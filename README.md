@@ -1,21 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on CNU CSE
-🌱 I’m currently learning Speaking Korean
-👯 I’m looking to collaborate on Future.K
-💬 Ask me about How old am I
-😄 Pronouns: Ya HO
-⚡ Fun fact: I Love It
+💻 I’m currently working on CNU CSE
+🎈 I’m currently learning Speaking Korean
+🎀 I’m looking to collaborate on Future.K
+⚡ Fun fact: I Love you
 <!--
 **WZNT-KimHyeJin/WZNT-KimHyeJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Universe
-- 🌱 I’m currently learning Speaking Korean
-- 👯 I’m looking to collaborate on Future.K
-- 🤔 I’m looking for help with someone
-- 💬 Ask me about How old are you
-- 📫 How to reach me:
-- 
-- ⚡ Fun fact: ...
--->
