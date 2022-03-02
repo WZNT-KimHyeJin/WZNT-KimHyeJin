@@ -1,7 +1,7 @@
 ### How are you? 👋
 💻 I’m majoring in CSE
 
-🎈 I’m currently learning Speaking Korean
+🎈 I’m currently learning to speak Korean
 
 🌟 Men have fogotten this truth, but you must not forget it you become responsible, forever, for what you tamed🌹
 
