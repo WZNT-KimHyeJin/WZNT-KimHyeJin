@@ -5,7 +5,7 @@
 
 🌟 Men have fogotten this truth, but you must not forget it. You become responsible, forever, for what you tamed🌹
 
-🖋️ Do whatever you wanna. But you have to be responsible for your choice.
+
 
 ## 😊 Don't have a good day, have a  GREAT day!! 
 
