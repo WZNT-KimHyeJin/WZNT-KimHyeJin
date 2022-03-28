@@ -3,7 +3,7 @@
 
 🎈 I’m currently learning to speak Korean
 
-🌟 Men have fogotten this truth, but you must not forget it. You become responsible, forever, for what you tamed🌹
+🌟 It is the time you have wasted for your rose that makes your rose so important🌹
 
 
 
