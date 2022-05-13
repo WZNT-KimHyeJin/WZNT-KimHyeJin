@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=E098CF&height=200&section=header&text=😊I%20am%20the%20HAPPIEST%20today%20😊&fontSize=55&fontColor=FFFFFF)
+
 ### How are you? 👋
 💻 I’m majoring in CSE
 
