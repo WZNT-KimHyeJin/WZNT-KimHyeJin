@@ -1,4 +1,5 @@
 ### Hi there! How are you? 👋
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=E098CF&height=200&section=header&text=😊%20Supercalifragilisticexpialidocious%20😊&fontSize=40&fontColor=FFFFFF)
 
 <h3 align="center">Tech Stack</h3>
@@ -19,18 +20,24 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
 </p>
+<br/>
 
+<h3 align="center">📧 You can contact me📧</h3>
+<p align="center">kimhyejinjin@gmail.com</p>
+<br/>
 
+<h3 align="center">🌟 우주수첩의 우주노트 🌟</h3>
+<p align="center">https://dusty-wznt.tistory.com/</p>
+<br/>
+
+<p align="center">
 💻 I’m majoring in CSE
-
+  
+<p align="center">
 🎈 I’m currently learning to speak Korean
-
+<p align="center">
 🌟 It is the time you have wasted for your rose that makes your rose so important🌹
-
-
-
-## 😊 Don't have a good day, have a  GREAT day!! 
-
-<!--
-**WZNT-KimHyeJin/WZNT-KimHyeJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+😊 Don't have a good day, have a  GREAT day!! 
+</p>
 
