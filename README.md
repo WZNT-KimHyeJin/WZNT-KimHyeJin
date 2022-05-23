@@ -1,6 +1,6 @@
 ### Hi there! How are you? 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=EEEEEE&height=200&section=header&text=😊%20Supercalifragilisticexpialidocious%20😊&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFE57F&height=270&section=header&text=😊%20Supercalifragilisticexpialidocious%20😊&fontSize=40&fontColor=000000)
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
