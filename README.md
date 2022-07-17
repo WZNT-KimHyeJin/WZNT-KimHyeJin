@@ -1,7 +1,9 @@
-### Hi there! How are you? 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFE57F&height=270&section=header&text=😊%20Supercalifragilisticexpialidocious%20😊&fontSize=40&fontColor=000000)
+<br>
 
+<h1 align="center">😊Supercalifragilisticexpialidocious😊</h1>
+<br>
+<br>
 <h3 align="center">Tech Stack</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
