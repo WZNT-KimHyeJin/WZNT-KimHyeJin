@@ -22,7 +22,6 @@
 </p>
 <br/>
 
-<h3 align="center">📧 You can contact me📧</h3>
 <p align="center">kimhyejinjin@gmail.com</p>
 <br/>
 
@@ -30,11 +29,7 @@
 <p align="center">https://dusty-wznt.tistory.com/</p>
 <br/>
 
-<p align="center">
-💻 I’m majoring in CSE
-  
-<p align="center">
-🎈 I’m currently learning to speak Korean
+
 <p align="center">
 🌟 It is the time you have wasted for your rose that makes your rose so important🌹
 <p align="center">
