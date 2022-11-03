@@ -12,13 +12,9 @@
 <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp 
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
-<br/>
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
-</p>
 <br/>
 
 <p align="center">kimhyejinjin@gmail.com</p>
@@ -34,4 +30,6 @@
 <p align="center">
 😊 Don't have a good day, have a  GREAT day!! 
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WZNT-KimHyeJin)](https://github.com/anuraghazra/github-readme-stats)
 
