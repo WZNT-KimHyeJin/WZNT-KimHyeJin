@@ -25,8 +25,7 @@
 <br/>
 
 
-<p align="center">
-🌟 It is the time you have wasted for your rose that makes your rose so important🌹
+
 <p align="center">
 😊 Don't have a good day, have a  GREAT day!! 
 </p>
