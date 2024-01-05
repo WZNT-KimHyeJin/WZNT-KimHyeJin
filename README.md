@@ -21,8 +21,9 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hj001003)](https://github.com/mazassumnida/mazassumnida)
 <br>
 <br>
-<sup>kimhyejinjin@gmail.com<sup>
-<sup>BLOG 🌟 우주수첩의 우주노트 🌟 : https://dusty-wznt.tistory.com</sup>
+<sup>kimhyejinjin@gmail.com</sup>
+<br>
+<sup>BLOG 🌟 우주수첩의 우주노트 🌟 : https://dusty-wznt.tistory.com</sup> 
 <br/>
 
 
