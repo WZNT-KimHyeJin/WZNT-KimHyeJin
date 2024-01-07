@@ -1,8 +1,8 @@
 
-# 김혜진 *Kim Hye Jin*
+# 김혜진 Kim Hye Jin
 
 </br>
-👩‍🎓 Department of Computer Convergence : 2019.3 ~ 2024.2
+👩🏻‍🎓 Chungnam National Univ.Department of Computer Convergence : 2019.3 ~ 2024.2
 <br>
 <br>
 
@@ -21,13 +21,15 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hj001003)](https://github.com/mazassumnida/mazassumnida)
 <br>
 <br>
-<sup>kimhyejinjin@gmail.com</sup>
+<sup>✉ email : kimhyejinjin@gmail.com</sup>
 <br>
-<sup>BLOG 🌟 우주수첩의 우주노트 🌟 : https://dusty-wznt.tistory.com</sup> 
+<sup>🌟 우주수첩의 우주노트 🌟 : https://dusty-wznt.tistory.com</sup> 
 <br/>
 
 
-
-😊 Don't have a good day, have a  GREAT day!! 
-
-
+- 소프트웨어야 놀자 2기 : AI-dle <sub><sup>대학생멘토 2022.03 ~ 2022.12</sup></sub><br>
+- 글로벌 SW AI 인재 프로그램 7기 : IoT HealthCare <sub><sup>NewBalance 2022.03 ~ 2023.03</sup></sub><br>
+- Data AI Lab 학부연구생 : <sub><sup>2022.05 ~ 2022.10</sup></sub><br>
+- 충남대학교 멋쟁이 사자처럼 11기 : <sub><sup>2023.05 ~ 2023.12</sup></sub><br>
+- CNU_SW Academy 3기 : <sub><sup>2023.07 ~ 2023.11</sup></sub><br>
+- 백마인턴십 한국타이어 : R&D Process Digitalization Project Intern <sub><sup>2023.09~2024.02</sup></sub><br>
