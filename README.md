@@ -2,8 +2,6 @@
 # 김혜진 Kim Hye Jin
 
 </br>
-👩🏻‍🎓 Chungnam National Univ.Department of Computer Convergence : 2019.3 ~ 2024.2
-<br>
 <br>
 
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://Java.info/)
@@ -26,10 +24,13 @@
 <sup>🌟 우주수첩의 우주노트 🌟 : https://dusty-wznt.tistory.com</sup> 
 <br/>
 
-
-- 소프트웨어야 놀자 2기 : AI-dle <sub><sup>대학생멘토 2022.03 ~ 2022.12</sup></sub><br>
-- 글로벌 SW AI 인재 프로그램 7기 : IoT HealthCare <sub><sup>NewBalance 2022.03 ~ 2023.03</sup></sub><br>
-- Data AI Lab 학부연구생 : <sub><sup>2022.05 ~ 2022.10</sup></sub><br>
-- 충남대학교 멋쟁이 사자처럼 11기 : <sub><sup>2023.05 ~ 2023.12</sup></sub><br>
+- 👩🏻‍🎓 Chungnam National Univ.Department of Computer Convergence : 2019.3 ~ 2024.2
+- 백마인턴십 한국타이어 : R&D DX Intern <sub><sup>2023.09~2024.02</sup></sub>
 - CNU_SW Academy 3기 : <sub><sup>2023.07 ~ 2023.11</sup></sub><br>
-- 백마인턴십 한국타이어 : R&D Process Digitalization Project Intern <sub><sup>2023.09~2024.02</sup></sub><br>
+- 충남대학교 멋쟁이 사자처럼 11기 : <sub><sup>2023.05 ~ 2023.12</sup></sub><br>
+- 충남대학교 컴퓨터 융합학부 DA연구실 학부생 인턴, <sub><sup>이동체 경로 예측 딥러닝
+모델을 위한 데이터셋 구축 및 딥러닝 모델 구축 : 2022.05 ~ 2022.10</sup></sub><br>
+- 2023 K-Square Winter Program(; 글로벌 SW AI 인재 프로그램 7기), IITP / Purdue University : IoT HealthCare <sub><sup>NewBalance 2022.03 ~ 2023.03</sup></sub><br>
+- 소프트웨어야 놀자 2기 : AI-dle <sub><sup>대학생멘토 2022.03 ~ 2022.12</sup></sub><br>
+
+<br>
