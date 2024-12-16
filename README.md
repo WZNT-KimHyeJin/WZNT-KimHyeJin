@@ -5,7 +5,6 @@
 <br>
 
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://Java.info/)
-[![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://www.Spring.org/)
 [![SpringBoot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)](https://www.SpringBoot.org/)
 [![mysql Badge](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.org/)
 [![elasticsearch Badge](https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://elasticsearch.org/)
