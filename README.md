@@ -7,8 +7,6 @@
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://Java.info/)
 [![SpringBoot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)](https://www.SpringBoot.org/)
 [![mysql Badge](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.org/)
-[![elasticsearch Badge](https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://elasticsearch.org/)
-[![opensearch Badge](https://img.shields.io/badge/opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)](https://opensearch.org/)
 <br>
 [![dart Badge](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.org/)
 [![flutter Badge](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.org/)
